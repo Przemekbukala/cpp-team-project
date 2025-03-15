@@ -1,3 +1,4 @@
 # Inzynieria_oprogramowania
 Przemysław Bukała
-Krzysztof Kowalik - student B
+Karzysztof Kowalik - student B
+Jakub Ledwon- student CCC
